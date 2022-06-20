@@ -1,0 +1,11 @@
+build/
+screenshot/
+target/
+
+#### Java files###
+*.class
+*.jar
+*.war
+
+# MAC_OS
+.DS_STORE

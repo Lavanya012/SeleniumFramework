@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="artifactoryreleases" />
+      <option name="name" value="libs-release" />
+      <option name="url" value="https://artifactory.corp.nortonlifelock.com/artifactory/ebiz-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="eStore Internal" />
+      <option name="name" value="Symantec eBusiness eStore - Symantec IT" />
+      <option name="url" value="https://artifactory.corp.nortonlifelock.com/artifactory/symc_ebiz_payments_internal-maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="symc_ebiz_payment_module_snapshots" />
+      <option name="name" value="Symantec eBusiness Payments Module Snapshots" />
+      <option name="url" value="https://artifactory.corp.nortonlifelock.com/artifactory/symc_ebiz_payments_module-maven-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="symc_ebiz_payment_module_releases" />
+      <option name="name" value="Symantec eBusiness Payments Module Releases" />
+      <option name="url" value="https://artifactory.corp.nortonlifelock.com/artifactory/symc_ebiz_payments_module-maven-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactorysnapshots" />
+      <option name="name" value="libs-snapshot" />
+      <option name="url" value="https://artifactory.corp.nortonlifelock.com/artifactory/ebiz-maven-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="repo central" />
+      <option name="url" value="https://artifactory.corp.nortonlifelock.com/artifactory/repo1" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bintray" />
+      <option name="name" value="jcenter bintray" />
+      <option name="url" value="https://jcenter.bintray.com" />
+    </remote-repository>
+  </component>
+</project>
